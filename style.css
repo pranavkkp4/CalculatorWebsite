@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    color: green;
+}
+
+.card {
+    border-color: green;
+}
+
+.btn-success {
+    background-color: green;
+    border-color: green;
+}
+
+h1,
+h5 {
+    color: green;
+}
